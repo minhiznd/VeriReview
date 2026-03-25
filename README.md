@@ -1,10 +1,9 @@
-BẢN PHÁC THẢO DỰ ÁN BLOCKCHAIN
 TÊN DỰ ÁN: VeriReview
 
 VẤN ĐỀ (1 câu):
 Khách du lịch hiện nay mất niềm tin vào các nền tảng đánh giá truyền thống vì doanh nghiệp có thể dễ dàng thao túng, xóa bỏ hoặc sửa đổi các phản hồi tiêu cực của khách hàng.
 GIẢI PHÁP (1 câu):
-TrustTour Ledger sử dụng hợp đồng thông minh Soroban trên Stellar để lưu trữ mã định danh (hash) không thể xóa bỏ của mỗi bài đánh giá, giúp người dùng sau này có thể đối soát và xác thực tính nguyên bản của thông tin.
+VeriReview sử dụng hợp đồng thông minh Soroban trên Stellar để lưu trữ mã định danh (hash) không thể xóa bỏ của mỗi bài đánh giá, giúp người dùng sau này có thể đối soát và xác thực tính nguyên bản của thông tin.
 TÍNH NĂNG STELLAR SỬ DỤNG:
 Soroban contract (Để lưu trữ và quản lý các mã hash đánh giá)
 NGƯỜI DÙNG MỤC TIÊU:
